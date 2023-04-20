@@ -1,0 +1,22 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "Learning Express.Js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osamayounus786/express.js.git"
+  },
+  "author": "Osama Younus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osamayounus786/express.js/issues"
+  },
+  "homepage": "https://github.com/osamayounus786/express.js#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
